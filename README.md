@@ -35,4 +35,4 @@ I'm a passionate **Software Developer** with a focus on building scalable, effic
 ### 📫 **Get in Touch**
 - **Email**: yousfi.ahmedk@gmail.com
 - **[LinkedIn](https://www.linkedin.com/in/akhalil/)**
-- **[Portfolio](https://www.khalilbuilds.com)** 
+- **[Portfolio](https://khalilbuilds.com)** 
